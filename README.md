@@ -1,10 +1,9 @@
 # SmartApp
 
-An application that  allows the user to open the magnetic door lock using smart cards. It also has a gsm sms notification. 
-It also has a buzzer for wrong or invalid cards.
+An application that  allows the user to open the magnetic door lock using smart cards. It also has a gsm sms notification, a buzzer for wrong or invalid cards.
 
 This application is written in c++ (Qt Creator) and calls python for controlling the io such as gsm and buzzer. 
-It also communicates with c language for accessing dati in mysql. 
+It also communicates with c language for accessing data in mysql. 
 
 It runs on Raspberry Pi. Here are the list of other devices included
 
