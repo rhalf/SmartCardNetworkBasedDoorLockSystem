@@ -1,2 +1,0 @@
-gcc user.c -o user `mysql_config --cflags --libs`
-gcc logs.c -o logs `mysql_config --cflags --libs`

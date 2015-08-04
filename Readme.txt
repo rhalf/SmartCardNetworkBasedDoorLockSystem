@@ -1,0 +1,1 @@
+Main ui source is located in RaspberryPi folder. Motor Driver is located in Arduino folder.
